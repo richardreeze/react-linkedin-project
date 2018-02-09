@@ -59,10 +59,13 @@ body {
 .box2 {
   border: 1px solid grey;
   height: 700px;
-  width: 400px;
+  width: 399px;
   border-radius: 3px;
   box-shadow: 0px 2px 10px grey;
   background-color: white;
+  display: inline-flex;
+  flex-wrap: wrap;
+  align-content: flex-start;
 }
 
 .box3 {

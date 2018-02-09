@@ -2,6 +2,7 @@ import React from 'react';
 import './App.css';
 import logo from './images/logo.png';
 import Icon from './components/icon.js';
+import Profile from './components/profile.js';
 import home from './images/home.png';
 import network from './images/network.png';
 import jobs from './images/jobs.png';
@@ -31,9 +32,15 @@ const App = () => {
           
         </div>
         <div className="box2">
+          <Profile />
+          <Profile />
+          <Profile />
+          <Profile />
+          <Profile />
+          <Profile />
+          <Profile />
         </div>
         <div className="box3">
-          
         </div>
       </div>
     </div>

@@ -1,0 +1,13 @@
+.profile {
+  border: 1px solid black;
+  min-width: 131px;
+  max-width: 131.2px;
+  height: 200px;
+  flex-direction: column;
+  text-align: center;
+}
+
+.profile_image {
+  height: 40px;
+  width: 40px;
+}
